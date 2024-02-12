@@ -41,9 +41,9 @@ When I have some snapshot version, I will release it in my group that not in my 
 #### Installation tutorial
 
 1. Download zip
-2. if it is a zip, Unzip it, but whatever it is exe, double click it!
-3. Download two dll file on your C:/Windows, I release two dll in my lanzou, welcome to download it!
-4. Don't forget to watch the update log, by the way, I use Chinese to write it, Don't be mind!
+2. if a zip is downloaded, just unzip it. but whatever it is exe, run it immediately!
+4. Download two dll file on your C:/Windows, I release two dll in my lanzou, welcome to download it!
+5. Don't forget to watch the update log, by the way, I use Chinese to write it, Don't be mind!
 
 #### Contributor
 
@@ -53,5 +53,5 @@ When I have some snapshot version, I will release it in my group that not in my 
 
 3. (Release version): [lanzou click me](https://wwdy.lanzouj.com/b023j206d) password: 90y9
 
-- from now on, there are no private snapshot version and snapshot version in here, I will release all version in public version, thanks!
+- There are no private snapshot version and snapshot version in here any more. However, all later releases are public version.
 - at the same time, I will archive my all private version for everyone to read. if you want to download old version, please check Chinese Readme!
