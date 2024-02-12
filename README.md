@@ -8,7 +8,7 @@ Whatever you're a foreigners for China, I don't think you need to use this launc
 
 #### Introduction
 
- **This is a easy Launcher for Minecraft. Its content makes you happy!**
+ **This is an easy-to-use Launcher for Minecraft. Its content makes you happy!**
 
 2022.4.6
 
@@ -18,9 +18,9 @@ This Launcher includes a method, using private things such as Microsoft AZure Cl
 
 Btw, this project do *only* support _RAD Studio Delphi_ to compile it, it does not support *Lazarus* or *other compiler*.
 
-BBtw, if you want to support the author so that the author can have a good meal, you can use a Chinese account by afdian to support the author. However, if you are only a child or a worker without a fixed income source, you are absolutely not allowed to give money for me, which may cause a serious impact.
+BBtw, if you want to support the author so that the author can have a good meal, you can use donate by using a Chinese account in Afdian. However, if you are only a child or a worker without a fixed income source, you are absolutely not allowed to give money for me, which may cause a serious impact.
 
-You can choose to ask your questions on the issue of github. The group chat is always open. You don't need to give me a penny,
+You can choose to ask your questions on the GitHub issue. The group chat always opens. You don't need to give me a penny,
 
 My afdian website is: [Rechalow](https://afdian.net/a/Rechalow)
 
@@ -34,7 +34,7 @@ This Repository use GNU-GPL License, if you dont know about this License, Check 
 
 #### Author contact information by QQ
 
-My QQ group is 792484446, If you have any question, please say it in issue.
+My QQ group is 792484446, If you have any question, please say it in GitHub Issue.
 
 When I have some snapshot version, I will release it in my group that not in my lanzou.
 
